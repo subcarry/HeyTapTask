@@ -47,7 +47,7 @@ git clone https://ghproxy.com/https://github.com/Esdeathaili/HeyTapTask.git   # 
 
 cd HeyTapTask
 
-vi Ht_config.py
+vi config.py
 ```
 
 ##### 编辑配置文件(本地/云函数)
