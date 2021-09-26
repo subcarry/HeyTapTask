@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2021/9/11
-# @Author  : 2984922017@qq.com
+# @Time    : 2021/9/26
+# @Author  : Esdeathaili
 # @File    : config.py
 # @Software: PyCharm
 
