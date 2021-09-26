@@ -1,8 +1,8 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2021/9/11
-# @Author  : 2984922017@qq.com
-# @File    : config.py
+# @Time    : 2021/9/26
+# @Author  : 2Esdeathaili
+# @File    : index.py
 # @Software: PyCharm
 
 import requests
