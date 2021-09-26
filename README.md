@@ -28,12 +28,14 @@
 * [x] 积分大作战HeyTap
 
 ## 函数说明
-  self.reporinfo()   任务中心-签到的信息其中['today']用于判断是否为今天
-  self.getGoodMess() 获取商品信息，用于浏览商品时使用   
-  self.task()        完成任务中心任务
-  self.task1()       完成积分大乱斗（realme）任务
-  self.task2()       完成赚积分
-  self.task3()       完成积分大乱斗（Heytap）任务
+```text
+self.reporinfo()   任务中心-签到的信息其中['today']用于判断是否为今天
+self.getGoodMess() 获取商品信息，用于浏览商品时使用   
+self.task()        完成任务中心任务
+self.task1()       完成积分大乱斗（realme）任务
+self.task2()       完成赚积分
+self.task3()       完成积分大乱斗（Heytap）任务
+```
   
 #### 一、Linux部署
 ```bash
