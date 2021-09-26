@@ -18,6 +18,6 @@ accounts = [
     {
         'user':'',
         'CK':'',
-        'UA':'Mozilla/5.0 (Linux; Android 6.0.1; MuMu Build/V417IR; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile Safari/537.36 oppostore/201202 ROM/V0.0 brand/Android model/MuMu'
+        'UA':''
     }
 ]
